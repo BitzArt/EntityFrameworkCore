@@ -12,8 +12,8 @@ env:
 
 jobs:
 
-  EntityFrameworkCore-Models:
-    name: EntityFrameworkCore-Models
+  EntityFrameworkCore:
+    name: EntityFrameworkCore
     runs-on: ubuntu-latest
     steps:
 
