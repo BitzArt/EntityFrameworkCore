@@ -3,6 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>BitzArt.EntityFrameworkCore</RootNamespace>
+
+    <PackageId>BitzArt.EntityFrameworkCore</PackageId>
+    <Authors>BitzArt</Authors>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/BitzArt/EntityFrameworkCore</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
